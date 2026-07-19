@@ -4,7 +4,7 @@ A web tool for Level Designers to explore how players actually move, fight,
 loot, and die across LILA BLACK's three maps, built from 5 days of production
 telemetry (Feb 10–14, 2026).
 
-**Live deployment:** `https://<your-deployment>.vercel.app` ← replace after deploy
+**Live deployment:** `https://lila-task-opal.vercel.app/` 
 
 ![Aggregate view](docs/screenshot-aggregate.png)
 

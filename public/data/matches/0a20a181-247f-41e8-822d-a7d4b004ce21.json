@@ -1,0 +1,1 @@
+{"id":"0a20a181-247f-41e8-822d-a7d4b004ce21","map":"Lockdown","date":"2026-02-13","duration_s":40,"players":[{"id":"b3340cc5-c9fa-4108-b56d-0728bc978a22","bot":false,"path":[[0,273,317],[35,271,319]],"events":[{"t":40,"e":"BotKilled","c":"death","x":271,"y":319}]}]}

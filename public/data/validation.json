@@ -1,0 +1,19 @@
+{
+  "matches_with_multiple_maps": 0,
+  "unknown_events": [],
+  "rows_where_folder_and_ts_date_disagree": 348,
+  "journeys_under_5_rows": 6,
+  "total_journeys": 1242,
+  "file_read_failures": [],
+  "duplicate_journey_files_skipped": [
+    "February_11/cfa03e9f-81f6-41ef-a0fa-30c7e830f4ed_ac049b28-8116-4ff1-9e60-4be0537b8cc9.nakama-0"
+  ],
+  "out_of_bounds": {
+    "total_out_of_bounds": 0,
+    "by_map": {}
+  },
+  "grid": {
+    "canvas": 1024,
+    "heatmap_bins": 64
+  }
+}
